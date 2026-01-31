@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "bun main.ts"
+  },
+  "dependencies": {
+    "elysia": "^1.0.0",
+    "@elysiajs/static": "^1.0.0",
+    "@elysiajs/cors": "^1.0.0"
+  }
+}
