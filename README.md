@@ -24,8 +24,8 @@ A lightweight template for building URL shortening services with [ElysiaJS](http
 Clone or fork this repository:
 
 ```bash
-git clone <repository-url>
-cd app
+git clone https://github.com/SirachayaKaew/Url-Short-Web-Template-Using_elysiajs.git
+cd Url-Short-Web-Template-Using_elysiajs
 ```
 
 Or use it as a template on GitHub.
@@ -54,7 +54,7 @@ app/
 │   └── app.js           # Frontend logic
 ├── package.json         # Dependencies
 ├── tsconfig.json        # TypeScript config
-└── README.md            # This file
+└── README.md            
 ```
 
 ## Suggested API Endpoints
