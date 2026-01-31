@@ -143,18 +143,9 @@ console.log("Server running on http://localhost:3000");
 - Test with curl or Postman
 - Use TypeScript for better development experience
 
-## Next Steps
-
-1. ✅ Run the template locally
-2. 📝 Implement your short code generation logic
-3. 💾 Choose and integrate a storage solution
-4. 🎨 Build a frontend interface
-5. 🧪 Add tests for your routes
-6. 🚀 Deploy to your preferred hosting
-
 ## License
 
-MIT - Use freely for your projects
+MIT
 
 ## Resources
 
